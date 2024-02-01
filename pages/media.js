@@ -13,8 +13,6 @@ function MediaPage() {
 
   const { data: mediaData, isPending } = useGetData({ path: "/media" });
 
-  // console.log("data", mediaData);
-
   const handleImageClick = (media) => {
     if (selectedImage?._id === media._id) {
       setSelectedImage(null);
