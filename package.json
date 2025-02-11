@@ -25,6 +25,7 @@
     "@tiptap/starter-kit": "^2.1.13",
     "axios": "^1.6.4",
     "chart.js": "^4.4.1",
+    "aws-sdk": "^2.1692.0",
     "clsx": "^2.1.0",
     "formik": "^2.4.5",
     "googleapis": "^130.0.0",
